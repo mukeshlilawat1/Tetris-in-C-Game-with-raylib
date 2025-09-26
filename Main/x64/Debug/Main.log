@@ -1,4 +1,4 @@
 ﻿  Main.cpp
-  Main.vcxproj -> C:\Users\Mukesh Lilawat\Desktop\cpp-Game\Main\x64\Debug\Main.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
+Main.obj : error LNK2019: unresolved external symbol "public: __cdecl Grid::Grid(void)" (??0Grid@@QEAA@XZ) referenced in function main
+Main.obj : error LNK2019: unresolved external symbol "public: void __cdecl Grid::Print(void)" (?Print@Grid@@QEAAXXZ) referenced in function main
+C:\Users\Mukesh Lilawat\Desktop\cpp-Game\Main\x64\Debug\Main.exe : fatal error LNK1120: 2 unresolved externals
